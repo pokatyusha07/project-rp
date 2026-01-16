@@ -1,0 +1,48 @@
+# Django и расширения
+Django==5.0.1
+djangorestframework==3.14.0
+django-filter==23.5
+django-cors-headers==4.3.1
+
+# JWT аутентификация
+djangorestframework-simplejwt==5.3.1
+
+# Swagger документация
+drf-spectacular==0.27.0
+
+# ASGI и WebSocket
+daphne==4.1.0
+channels==4.0.0
+channels-redis==4.2.0
+
+# База данных
+psycopg2-binary==2.9.9
+
+# Celery для асинхронных задач
+celery==5.3.6
+redis==5.0.1
+
+# Транскрипция
+openai-whisper==20231117
+torch==2.1.2
+torchaudio==2.1.2
+
+# NLP обработка
+spacy==3.7.2
+transformers==4.36.2
+
+# Telegram бот
+python-telegram-bot==20.7
+aiogram==3.4.1
+
+# Утилиты
+python-dotenv==1.0.0
+Pillow==10.2.0
+pydub==0.25.1
+
+# Отчеты
+reportlab==4.0.9
+openpyxl==3.1.2
+
+# Мониторинг и логирование
+sentry-sdk==1.40.0
